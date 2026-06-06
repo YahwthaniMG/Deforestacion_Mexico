@@ -4,3 +4,11 @@ matplotlib
 seaborn
 scikit-learn
 umap-learn
+networkx
+scipy
+openpyxl
+xlrd
+python-pptx
+jupyter
+nbconvert
+ipython
