@@ -1,0 +1,309 @@
+<HTML LANG="es">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<META http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
+
+<style>
+th{
+	vertical-align:middle !important; 
+	text-align:center !important;
+}
+.estiloResult{
+	background-color:#B38E5D !important; 
+	color:#FFF !important;
+}
+</style>
+
+<TITLE></TITLE>
+</head>
+<body>
+
+		<div class="titulosTabla">
+			<p>
+				<strong>A&ntilde;o:</strong> 2009<br />
+				<strong>Producci&oacute;n Agr&iacute;cola</strong><br />
+				<strong>Ciclo:</strong> Ciclicos - Perennes<br />
+				<strong>Modalidad:</strong> Riego + Temporal<br />
+				
+			</p>
+		</div>
+		<div class="table-responsive">
+		<table id="Resultados-reporte" class="table table-striped table-bordered" border="1">
+			<tr class="estiloResult">
+				<th rowspan="2">&nbsp;</th>
+				<th rowspan="2">Entidad</th>
+				
+				<th colspan="2">Superficie<br />(ha)</th>
+				
+				<th rowspan="2">Valor Producci&oacute;n<br />(miles de Pesos)</th>
+			</tr>
+			<tr class="estiloResult">
+				<th>Sembrada</th>
+				<th>Cosechada</th>
+				
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Aguascalientes</td>
+				<td class="tdNum">145,226.00</td>
+				<td class="tdNum">67,264.00</td>
+				<td class="tdNum">1,688,137.18</td>
+			</tr>
+			
+			<tr>
+				<td>2</td>
+				<td>Baja California</td>
+				<td class="tdNum">228,110.66</td>
+				<td class="tdNum">207,324.52</td>
+				<td class="tdNum">9,362,117.86</td>
+			</tr>
+			
+			<tr>
+				<td>3</td>
+				<td>Baja California Sur</td>
+				<td class="tdNum">37,144.44</td>
+				<td class="tdNum">34,456.06</td>
+				<td class="tdNum">2,019,779.14</td>
+			</tr>
+			
+			<tr>
+				<td>4</td>
+				<td>Campeche</td>
+				<td class="tdNum">234,165.15</td>
+				<td class="tdNum">216,004.53</td>
+				<td class="tdNum">1,867,279.46</td>
+			</tr>
+			
+			<tr>
+				<td>5</td>
+				<td>Coahuila</td>
+				<td class="tdNum">291,869.91</td>
+				<td class="tdNum">244,648.95</td>
+				<td class="tdNum">4,825,094.81</td>
+			</tr>
+			
+			<tr>
+				<td>6</td>
+				<td>Colima</td>
+				<td class="tdNum">154,723.20</td>
+				<td class="tdNum">149,018.51</td>
+				<td class="tdNum">3,724,996.95</td>
+			</tr>
+			
+			<tr>
+				<td>7</td>
+				<td>Chiapas</td>
+				<td class="tdNum">1,404,103.23</td>
+				<td class="tdNum">1,376,128.78</td>
+				<td class="tdNum">15,620,442.19</td>
+			</tr>
+			
+			<tr>
+				<td>8</td>
+				<td>Chihuahua</td>
+				<td class="tdNum">1,051,264.91</td>
+				<td class="tdNum">1,017,182.91</td>
+				<td class="tdNum">15,408,534.54</td>
+			</tr>
+			
+			<tr>
+				<td>9</td>
+				<td>Ciudad de México</td>
+				<td class="tdNum">22,510.70</td>
+				<td class="tdNum">22,505.60</td>
+				<td class="tdNum">991,951.65</td>
+			</tr>
+			
+			<tr>
+				<td>10</td>
+				<td>Durango</td>
+				<td class="tdNum">708,721.15</td>
+				<td class="tdNum">671,096.68</td>
+				<td class="tdNum">5,903,915.97</td>
+			</tr>
+			
+			<tr>
+				<td>11</td>
+				<td>Guanajuato</td>
+				<td class="tdNum">1,060,555.74</td>
+				<td class="tdNum">701,559.00</td>
+				<td class="tdNum">13,084,870.84</td>
+			</tr>
+			
+			<tr>
+				<td>12</td>
+				<td>Guerrero</td>
+				<td class="tdNum">860,918.28</td>
+				<td class="tdNum">840,371.54</td>
+				<td class="tdNum">8,276,565.25</td>
+			</tr>
+			
+			<tr>
+				<td>13</td>
+				<td>Hidalgo</td>
+				<td class="tdNum">579,100.47</td>
+				<td class="tdNum">433,844.72</td>
+				<td class="tdNum">4,315,735.03</td>
+			</tr>
+			
+			<tr>
+				<td>14</td>
+				<td>Jalisco</td>
+				<td class="tdNum">1,578,747.95</td>
+				<td class="tdNum">1,301,989.52</td>
+				<td class="tdNum">18,457,440.92</td>
+			</tr>
+			
+			<tr>
+				<td>15</td>
+				<td>México</td>
+				<td class="tdNum">877,563.37</td>
+				<td class="tdNum">838,028.12</td>
+				<td class="tdNum">10,336,154.36</td>
+			</tr>
+			
+			<tr>
+				<td>16</td>
+				<td>Michoacán</td>
+				<td class="tdNum">1,087,701.71</td>
+				<td class="tdNum">899,310.80</td>
+				<td class="tdNum">29,563,405.71</td>
+			</tr>
+			
+			<tr>
+				<td>17</td>
+				<td>Morelos</td>
+				<td class="tdNum">123,776.18</td>
+				<td class="tdNum">120,871.38</td>
+				<td class="tdNum">3,643,576.48</td>
+			</tr>
+			
+			<tr>
+				<td>18</td>
+				<td>Nayarit</td>
+				<td class="tdNum">383,242.89</td>
+				<td class="tdNum">368,755.01</td>
+				<td class="tdNum">6,501,110.29</td>
+			</tr>
+			
+			<tr>
+				<td>19</td>
+				<td>Nuevo León</td>
+				<td class="tdNum">330,962.90</td>
+				<td class="tdNum">321,433.60</td>
+				<td class="tdNum">3,274,298.34</td>
+			</tr>
+			
+			<tr>
+				<td>20</td>
+				<td>Oaxaca</td>
+				<td class="tdNum">1,383,737.95</td>
+				<td class="tdNum">1,185,728.90</td>
+				<td class="tdNum">10,516,469.25</td>
+			</tr>
+			
+			<tr>
+				<td>21</td>
+				<td>Puebla</td>
+				<td class="tdNum">992,266.92</td>
+				<td class="tdNum">627,658.50</td>
+				<td class="tdNum">9,029,518.62</td>
+			</tr>
+			
+			<tr>
+				<td>22</td>
+				<td>Querétaro</td>
+				<td class="tdNum">168,639.00</td>
+				<td class="tdNum">122,729.00</td>
+				<td class="tdNum">1,608,342.16</td>
+			</tr>
+			
+			<tr>
+				<td>23</td>
+				<td>Quintana Roo</td>
+				<td class="tdNum">123,815.39</td>
+				<td class="tdNum">119,756.55</td>
+				<td class="tdNum">905,658.35</td>
+			</tr>
+			
+			<tr>
+				<td>24</td>
+				<td>San Luis Potosí</td>
+				<td class="tdNum">732,266.91</td>
+				<td class="tdNum">437,537.39</td>
+				<td class="tdNum">6,847,666.88</td>
+			</tr>
+			
+			<tr>
+				<td>25</td>
+				<td>Sinaloa</td>
+				<td class="tdNum">1,305,331.55</td>
+				<td class="tdNum">1,157,032.07</td>
+				<td class="tdNum">29,603,467.35</td>
+			</tr>
+			
+			<tr>
+				<td>26</td>
+				<td>Sonora</td>
+				<td class="tdNum">578,438.66</td>
+				<td class="tdNum">565,293.92</td>
+				<td class="tdNum">20,619,350.84</td>
+			</tr>
+			
+			<tr>
+				<td>27</td>
+				<td>Tabasco</td>
+				<td class="tdNum">240,749.45</td>
+				<td class="tdNum">222,831.39</td>
+				<td class="tdNum">3,589,647.96</td>
+			</tr>
+			
+			<tr>
+				<td>28</td>
+				<td>Tamaulipas</td>
+				<td class="tdNum">1,407,771.50</td>
+				<td class="tdNum">1,264,098.15</td>
+				<td class="tdNum">12,088,476.08</td>
+			</tr>
+			
+			<tr>
+				<td>29</td>
+				<td>Tlaxcala</td>
+				<td class="tdNum">238,885.00</td>
+				<td class="tdNum">238,704.00</td>
+				<td class="tdNum">2,053,521.24</td>
+			</tr>
+			
+			<tr>
+				<td>30</td>
+				<td>Veracruz</td>
+				<td class="tdNum">1,415,695.56</td>
+				<td class="tdNum">1,343,557.08</td>
+				<td class="tdNum">20,383,616.82</td>
+			</tr>
+			
+			<tr>
+				<td>31</td>
+				<td>Yucatán</td>
+				<td class="tdNum">780,162.72</td>
+				<td class="tdNum">701,221.48</td>
+				<td class="tdNum">2,023,023.44</td>
+			</tr>
+			
+			<tr>
+				<td>32</td>
+				<td>Zacatecas</td>
+				<td class="tdNum">1,280,740.63</td>
+				<td class="tdNum">853,938.85</td>
+				<td class="tdNum">10,166,409.14</td>
+			</tr>
+			
+			<tr><th colspan="2">Total</th>
+			<th class="tdNum">21,808,910.08</th>
+			<th class="tdNum">18,671,881.51</th>
+			<th class="tdNum">288,300,575.12</th>
+		</tr>
+		
+		</table></div>
+</body>
+</html>

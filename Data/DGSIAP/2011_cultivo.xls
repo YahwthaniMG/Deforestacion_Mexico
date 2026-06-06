@@ -1,0 +1,2077 @@
+<HTML LANG="es">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<META http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
+
+<style>
+th{
+	vertical-align:middle !important; 
+	text-align:center !important;
+}
+.estiloResult{
+	background-color:#B38E5D !important; 
+	color:#FFF !important;
+}
+</style>
+
+<TITLE></TITLE>
+</head>
+<body>
+
+		<div class="titulosTabla">
+			<p>
+				<strong>A&ntilde;o:</strong> 2011<br />
+				<strong>Producci&oacute;n Agr&iacute;cola</strong><br />
+				<strong>Ciclo:</strong> Ciclicos - Perennes<br />
+				<strong>Modalidad:</strong> Riego + Temporal<br />
+				
+			</p>
+		</div>
+		<div class="table-responsive">
+		<table id="Resultados-reporte" class="table table-striped table-bordered" border="1">
+			<tr class="estiloResult">
+				<th rowspan="2">&nbsp;</th>
+				<th rowspan="2">Cultivo</th>
+				
+				<th colspan="2">Superficie<br />(ha)</th>
+				
+				<th rowspan="2">Valor Producci&oacute;n<br />(miles de Pesos)</th>
+			</tr>
+			<tr class="estiloResult">
+				<th>Sembrada</th>
+				<th>Cosechada</th>
+				
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Aceituna</td>
+				<td class="tdNum">8,338.00</td>
+				<td class="tdNum">3,538.00</td>
+				<td class="tdNum">44,380.87</td>
+			</tr>
+			
+			<tr>
+				<td>2</td>
+				<td>Acelga</td>
+				<td class="tdNum">735.59</td>
+				<td class="tdNum">692.39</td>
+				<td class="tdNum">21,569.33</td>
+			</tr>
+			
+			<tr>
+				<td>3</td>
+				<td>Achiote</td>
+				<td class="tdNum">421.00</td>
+				<td class="tdNum">356.00</td>
+				<td class="tdNum">4,353.02</td>
+			</tr>
+			
+			<tr>
+				<td>4</td>
+				<td>Agave</td>
+				<td class="tdNum">165,310.38</td>
+				<td class="tdNum">19,731.10</td>
+				<td class="tdNum">1,929,264.06</td>
+			</tr>
+			
+			<tr>
+				<td>5</td>
+				<td>Aguacate</td>
+				<td class="tdNum">142,146.10</td>
+				<td class="tdNum">126,597.89</td>
+				<td class="tdNum">18,136,404.25</td>
+			</tr>
+			
+			<tr>
+				<td>6</td>
+				<td>Ajo</td>
+				<td class="tdNum">5,695.24</td>
+				<td class="tdNum">5,675.24</td>
+				<td class="tdNum">1,241,773.21</td>
+			</tr>
+			
+			<tr>
+				<td>7</td>
+				<td>Ajonjolí</td>
+				<td class="tdNum">98,413.04</td>
+				<td class="tdNum">71,307.99</td>
+				<td class="tdNum">536,122.80</td>
+			</tr>
+			
+			<tr>
+				<td>8</td>
+				<td>Albahaca</td>
+				<td class="tdNum">441.05</td>
+				<td class="tdNum">405.30</td>
+				<td class="tdNum">42,429.08</td>
+			</tr>
+			
+			<tr>
+				<td>9</td>
+				<td>Albricia</td>
+				<td class="tdNum">161.00</td>
+				<td class="tdNum">161.00</td>
+				<td class="tdNum">2,435.10</td>
+			</tr>
+			
+			<tr>
+				<td>10</td>
+				<td>Alcachofa</td>
+				<td class="tdNum">242.00</td>
+				<td class="tdNum">242.00</td>
+				<td class="tdNum">26,390.58</td>
+			</tr>
+			
+			<tr>
+				<td>11</td>
+				<td>Alfalfa</td>
+				<td class="tdNum">387,799.54</td>
+				<td class="tdNum">376,421.64</td>
+				<td class="tdNum">13,055,453.78</td>
+			</tr>
+			
+			<tr>
+				<td>12</td>
+				<td>Algarrobo</td>
+				<td class="tdNum">76.00</td>
+				<td class="tdNum">76.00</td>
+				<td class="tdNum">489.60</td>
+			</tr>
+			
+			<tr>
+				<td>13</td>
+				<td>Algodón hueso</td>
+				<td class="tdNum">198,439.53</td>
+				<td class="tdNum">193,485.33</td>
+				<td class="tdNum">7,089,886.92</td>
+			</tr>
+			
+			<tr>
+				<td>14</td>
+				<td>Alhelí</td>
+				<td class="tdNum">395.88</td>
+				<td class="tdNum">395.38</td>
+				<td class="tdNum">4,107.35</td>
+			</tr>
+			
+			<tr>
+				<td>15</td>
+				<td>Almendra</td>
+				<td class="tdNum">1.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>16</td>
+				<td>Alpiste grano</td>
+				<td class="tdNum">169.00</td>
+				<td class="tdNum">169.00</td>
+				<td class="tdNum">893.08</td>
+			</tr>
+			
+			<tr>
+				<td>17</td>
+				<td>Amaranto</td>
+				<td class="tdNum">3,354.10</td>
+				<td class="tdNum">2,864.10</td>
+				<td class="tdNum">21,756.55</td>
+			</tr>
+			
+			<tr>
+				<td>18</td>
+				<td>Anís</td>
+				<td class="tdNum">284.00</td>
+				<td class="tdNum">284.00</td>
+				<td class="tdNum">10,910.80</td>
+			</tr>
+			
+			<tr>
+				<td>19</td>
+				<td>Anona</td>
+				<td class="tdNum">11.50</td>
+				<td class="tdNum">11.00</td>
+				<td class="tdNum">53.45</td>
+			</tr>
+			
+			<tr>
+				<td>20</td>
+				<td>Apio</td>
+				<td class="tdNum">1,136.00</td>
+				<td class="tdNum">1,117.75</td>
+				<td class="tdNum">125,218.79</td>
+			</tr>
+			
+			<tr>
+				<td>21</td>
+				<td>Arándano</td>
+				<td class="tdNum">783.00</td>
+				<td class="tdNum">636.00</td>
+				<td class="tdNum">156,178.65</td>
+			</tr>
+			
+			<tr>
+				<td>22</td>
+				<td>Arrayán</td>
+				<td class="tdNum">100.00</td>
+				<td class="tdNum">94.00</td>
+				<td class="tdNum">669.00</td>
+			</tr>
+			
+			<tr>
+				<td>23</td>
+				<td>Arroz palay</td>
+				<td class="tdNum">36,811.44</td>
+				<td class="tdNum">34,037.44</td>
+				<td class="tdNum">653,493.45</td>
+			</tr>
+			
+			<tr>
+				<td>24</td>
+				<td>Arvejón</td>
+				<td class="tdNum">1,355.00</td>
+				<td class="tdNum">1,319.00</td>
+				<td class="tdNum">8,214.37</td>
+			</tr>
+			
+			<tr>
+				<td>25</td>
+				<td>Avena forrajera en verde</td>
+				<td class="tdNum">942,823.74</td>
+				<td class="tdNum">633,761.42</td>
+				<td class="tdNum">3,012,451.22</td>
+			</tr>
+			
+			<tr>
+				<td>26</td>
+				<td>Avena grano</td>
+				<td class="tdNum">61,702.40</td>
+				<td class="tdNum">51,655.40</td>
+				<td class="tdNum">207,378.58</td>
+			</tr>
+			
+			<tr>
+				<td>27</td>
+				<td>Bangaña</td>
+				<td class="tdNum">3.00</td>
+				<td class="tdNum">3.00</td>
+				<td class="tdNum">51.30</td>
+			</tr>
+			
+			<tr>
+				<td>28</td>
+				<td>Berenjena</td>
+				<td class="tdNum">1,078.00</td>
+				<td class="tdNum">293.00</td>
+				<td class="tdNum">49,037.00</td>
+			</tr>
+			
+			<tr>
+				<td>29</td>
+				<td>Betabel</td>
+				<td class="tdNum">807.00</td>
+				<td class="tdNum">762.50</td>
+				<td class="tdNum">48,502.85</td>
+			</tr>
+			
+			<tr>
+				<td>30</td>
+				<td>Brócoli</td>
+				<td class="tdNum">25,816.83</td>
+				<td class="tdNum">25,373.00</td>
+				<td class="tdNum">1,585,004.94</td>
+			</tr>
+			
+			<tr>
+				<td>31</td>
+				<td>Cacahuate</td>
+				<td class="tdNum">63,970.53</td>
+				<td class="tdNum">61,344.00</td>
+				<td class="tdNum">859,934.93</td>
+			</tr>
+			
+			<tr>
+				<td>32</td>
+				<td>Cacao</td>
+				<td class="tdNum">61,006.33</td>
+				<td class="tdNum">60,708.25</td>
+				<td class="tdNum">861,245.16</td>
+			</tr>
+			
+			<tr>
+				<td>33</td>
+				<td>Café cereza</td>
+				<td class="tdNum">760,974.05</td>
+				<td class="tdNum">688,208.39</td>
+				<td class="tdNum">6,815,878.60</td>
+			</tr>
+			
+			<tr>
+				<td>34</td>
+				<td>Caimito</td>
+				<td class="tdNum">35.50</td>
+				<td class="tdNum">35.50</td>
+				<td class="tdNum">412.79</td>
+			</tr>
+			
+			<tr>
+				<td>35</td>
+				<td>Calabacita</td>
+				<td class="tdNum">29,591.57</td>
+				<td class="tdNum">23,992.88</td>
+				<td class="tdNum">1,725,861.30</td>
+			</tr>
+			
+			<tr>
+				<td>36</td>
+				<td>Calabaza</td>
+				<td class="tdNum">7,538.00</td>
+				<td class="tdNum">7,213.50</td>
+				<td class="tdNum">422,372.27</td>
+			</tr>
+			
+			<tr>
+				<td>37</td>
+				<td>Calabaza semilla o chihua</td>
+				<td class="tdNum">31,317.10</td>
+				<td class="tdNum">29,769.10</td>
+				<td class="tdNum">242,080.68</td>
+			</tr>
+			
+			<tr>
+				<td>38</td>
+				<td>Camote</td>
+				<td class="tdNum">2,639.35</td>
+				<td class="tdNum">2,615.35</td>
+				<td class="tdNum">191,660.80</td>
+			</tr>
+			
+			<tr>
+				<td>39</td>
+				<td>Canola</td>
+				<td class="tdNum">3,900.02</td>
+				<td class="tdNum">2,851.28</td>
+				<td class="tdNum">18,977.28</td>
+			</tr>
+			
+			<tr>
+				<td>40</td>
+				<td>Canola forrajera</td>
+				<td class="tdNum">4.00</td>
+				<td class="tdNum">4.00</td>
+				<td class="tdNum">114.40</td>
+			</tr>
+			
+			<tr>
+				<td>41</td>
+				<td>Caña de azúcar</td>
+				<td class="tdNum">774,243.18</td>
+				<td class="tdNum">713,824.00</td>
+				<td class="tdNum">30,369,914.67</td>
+			</tr>
+			
+			<tr>
+				<td>42</td>
+				<td>Caña de azúcar otro uso</td>
+				<td class="tdNum">20,076.34</td>
+				<td class="tdNum">19,761.40</td>
+				<td class="tdNum">521,969.35</td>
+			</tr>
+			
+			<tr>
+				<td>43</td>
+				<td>Capulín</td>
+				<td class="tdNum">130.30</td>
+				<td class="tdNum">122.20</td>
+				<td class="tdNum">2,145.86</td>
+			</tr>
+			
+			<tr>
+				<td>44</td>
+				<td>Carambolo</td>
+				<td class="tdNum">108.00</td>
+				<td class="tdNum">77.00</td>
+				<td class="tdNum">4,675.15</td>
+			</tr>
+			
+			<tr>
+				<td>45</td>
+				<td>Cártamo</td>
+				<td class="tdNum">102,392.54</td>
+				<td class="tdNum">62,799.79</td>
+				<td class="tdNum">732,179.59</td>
+			</tr>
+			
+			<tr>
+				<td>46</td>
+				<td>Cebada forrajera en verde</td>
+				<td class="tdNum">34,613.70</td>
+				<td class="tdNum">27,714.20</td>
+				<td class="tdNum">161,362.87</td>
+			</tr>
+			
+			<tr>
+				<td>47</td>
+				<td>Cebada grano</td>
+				<td class="tdNum">334,065.39</td>
+				<td class="tdNum">218,344.21</td>
+				<td class="tdNum">1,750,884.75</td>
+			</tr>
+			
+			<tr>
+				<td>48</td>
+				<td>Cebolla</td>
+				<td class="tdNum">48,638.91</td>
+				<td class="tdNum">47,126.16</td>
+				<td class="tdNum">4,566,352.58</td>
+			</tr>
+			
+			<tr>
+				<td>49</td>
+				<td>Centeno forrajero en verde</td>
+				<td class="tdNum">37.00</td>
+				<td class="tdNum">37.00</td>
+				<td class="tdNum">125.64</td>
+			</tr>
+			
+			<tr>
+				<td>50</td>
+				<td>Centeno grano</td>
+				<td class="tdNum">27.00</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">5.58</td>
+			</tr>
+			
+			<tr>
+				<td>51</td>
+				<td>Cereza</td>
+				<td class="tdNum">19.60</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>52</td>
+				<td>Chabacano</td>
+				<td class="tdNum">353.17</td>
+				<td class="tdNum">246.52</td>
+				<td class="tdNum">6,156.05</td>
+			</tr>
+			
+			<tr>
+				<td>53</td>
+				<td>Chayote</td>
+				<td class="tdNum">2,800.60</td>
+				<td class="tdNum">2,799.00</td>
+				<td class="tdNum">404,835.06</td>
+			</tr>
+			
+			<tr>
+				<td>54</td>
+				<td>Chía</td>
+				<td class="tdNum">2,750.00</td>
+				<td class="tdNum">2,750.00</td>
+				<td class="tdNum">55,477.50</td>
+			</tr>
+			
+			<tr>
+				<td>55</td>
+				<td>Chícharo</td>
+				<td class="tdNum">10,981.82</td>
+				<td class="tdNum">9,911.86</td>
+				<td class="tdNum">288,033.72</td>
+			</tr>
+			
+			<tr>
+				<td>56</td>
+				<td>Chilacayote</td>
+				<td class="tdNum">165.00</td>
+				<td class="tdNum">164.00</td>
+				<td class="tdNum">15,315.46</td>
+			</tr>
+			
+			<tr>
+				<td>57</td>
+				<td>Chile verde</td>
+				<td class="tdNum">152,742.37</td>
+				<td class="tdNum">144,390.60</td>
+				<td class="tdNum">12,099,213.70</td>
+			</tr>
+			
+			<tr>
+				<td>58</td>
+				<td>Chirimoya</td>
+				<td class="tdNum">112.00</td>
+				<td class="tdNum">90.00</td>
+				<td class="tdNum">2,558.75</td>
+			</tr>
+			
+			<tr>
+				<td>59</td>
+				<td>Chives</td>
+				<td class="tdNum">24.90</td>
+				<td class="tdNum">24.90</td>
+				<td class="tdNum">953.14</td>
+			</tr>
+			
+			<tr>
+				<td>60</td>
+				<td>Cilantro</td>
+				<td class="tdNum">5,931.69</td>
+				<td class="tdNum">5,659.99</td>
+				<td class="tdNum">190,790.90</td>
+			</tr>
+			
+			<tr>
+				<td>61</td>
+				<td>Ciruela</td>
+				<td class="tdNum">15,787.20</td>
+				<td class="tdNum">14,972.05</td>
+				<td class="tdNum">296,637.78</td>
+			</tr>
+			
+			<tr>
+				<td>62</td>
+				<td>Cítricos</td>
+				<td class="tdNum">621.94</td>
+				<td class="tdNum">494.56</td>
+				<td class="tdNum">7,789.77</td>
+			</tr>
+			
+			<tr>
+				<td>63</td>
+				<td>Coco fruta</td>
+				<td class="tdNum">14,645.25</td>
+				<td class="tdNum">13,408.50</td>
+				<td class="tdNum">276,565.02</td>
+			</tr>
+			
+			<tr>
+				<td>64</td>
+				<td>Col (repollo)</td>
+				<td class="tdNum">7,302.34</td>
+				<td class="tdNum">7,209.99</td>
+				<td class="tdNum">518,820.61</td>
+			</tr>
+			
+			<tr>
+				<td>65</td>
+				<td>Col de bruselas</td>
+				<td class="tdNum">454.00</td>
+				<td class="tdNum">454.00</td>
+				<td class="tdNum">57,250.30</td>
+			</tr>
+			
+			<tr>
+				<td>66</td>
+				<td>Coliflor</td>
+				<td class="tdNum">3,682.00</td>
+				<td class="tdNum">3,637.00</td>
+				<td class="tdNum">258,911.60</td>
+			</tr>
+			
+			<tr>
+				<td>67</td>
+				<td>Colinabo</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">96.00</td>
+			</tr>
+			
+			<tr>
+				<td>68</td>
+				<td>Colza</td>
+				<td class="tdNum">669.80</td>
+				<td class="tdNum">185.00</td>
+				<td class="tdNum">189.44</td>
+			</tr>
+			
+			<tr>
+				<td>69</td>
+				<td>Comino</td>
+				<td class="tdNum">42.00</td>
+				<td class="tdNum">42.00</td>
+				<td class="tdNum">1,588.50</td>
+			</tr>
+			
+			<tr>
+				<td>70</td>
+				<td>Copra</td>
+				<td class="tdNum">130,811.34</td>
+				<td class="tdNum">130,427.34</td>
+				<td class="tdNum">1,225,198.81</td>
+			</tr>
+			
+			<tr>
+				<td>71</td>
+				<td>Dátil</td>
+				<td class="tdNum">1,323.25</td>
+				<td class="tdNum">988.25</td>
+				<td class="tdNum">181,021.19</td>
+			</tr>
+			
+			<tr>
+				<td>72</td>
+				<td>Durazno</td>
+				<td class="tdNum">43,942.48</td>
+				<td class="tdNum">36,212.63</td>
+				<td class="tdNum">1,205,964.23</td>
+			</tr>
+			
+			<tr>
+				<td>73</td>
+				<td>Ebo (janamargo o veza)</td>
+				<td class="tdNum">8,307.80</td>
+				<td class="tdNum">8,271.80</td>
+				<td class="tdNum">75,728.01</td>
+			</tr>
+			
+			<tr>
+				<td>74</td>
+				<td>Ebo (janamargo o veza) grano</td>
+				<td class="tdNum">226.00</td>
+				<td class="tdNum">213.00</td>
+				<td class="tdNum">1,237.02</td>
+			</tr>
+			
+			<tr>
+				<td>75</td>
+				<td>Ejote</td>
+				<td class="tdNum">9,442.02</td>
+				<td class="tdNum">7,434.57</td>
+				<td class="tdNum">456,631.43</td>
+			</tr>
+			
+			<tr>
+				<td>76</td>
+				<td>Elote</td>
+				<td class="tdNum">56,903.80</td>
+				<td class="tdNum">55,185.20</td>
+				<td class="tdNum">1,355,706.72</td>
+			</tr>
+			
+			<tr>
+				<td>77</td>
+				<td>Eneldo</td>
+				<td class="tdNum">3.00</td>
+				<td class="tdNum">3.00</td>
+				<td class="tdNum">60.64</td>
+			</tr>
+			
+			<tr>
+				<td>78</td>
+				<td>Epazote</td>
+				<td class="tdNum">156.00</td>
+				<td class="tdNum">156.00</td>
+				<td class="tdNum">3,444.89</td>
+			</tr>
+			
+			<tr>
+				<td>79</td>
+				<td>Espárrago</td>
+				<td class="tdNum">16,036.50</td>
+				<td class="tdNum">14,736.00</td>
+				<td class="tdNum">2,804,996.67</td>
+			</tr>
+			
+			<tr>
+				<td>80</td>
+				<td>Especias y medicinales</td>
+				<td class="tdNum">10.00</td>
+				<td class="tdNum">10.00</td>
+				<td class="tdNum">346.24</td>
+			</tr>
+			
+			<tr>
+				<td>81</td>
+				<td>Espinaca</td>
+				<td class="tdNum">1,796.51</td>
+				<td class="tdNum">1,746.01</td>
+				<td class="tdNum">85,807.06</td>
+			</tr>
+			
+			<tr>
+				<td>82</td>
+				<td>Estropajo</td>
+				<td class="tdNum">344.00</td>
+				<td class="tdNum">344.00</td>
+				<td class="tdNum">5,406.80</td>
+			</tr>
+			
+			<tr>
+				<td>83</td>
+				<td>Eucalipto</td>
+				<td class="tdNum">147.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>84</td>
+				<td>Flor cera</td>
+				<td class="tdNum">38.00</td>
+				<td class="tdNum">38.00</td>
+				<td class="tdNum">3,180.60</td>
+			</tr>
+			
+			<tr>
+				<td>85</td>
+				<td>Flor perrito</td>
+				<td class="tdNum">204.50</td>
+				<td class="tdNum">204.50</td>
+				<td class="tdNum">2,097.94</td>
+			</tr>
+			
+			<tr>
+				<td>86</td>
+				<td>Flores</td>
+				<td class="tdNum">1,211.50</td>
+				<td class="tdNum">1,192.50</td>
+				<td class="tdNum">216,673.77</td>
+			</tr>
+			
+			<tr>
+				<td>87</td>
+				<td>Frambuesa</td>
+				<td class="tdNum">1,344.97</td>
+				<td class="tdNum">1,324.97</td>
+				<td class="tdNum">746,331.03</td>
+			</tr>
+			
+			<tr>
+				<td>88</td>
+				<td>Fresa</td>
+				<td class="tdNum">7,005.40</td>
+				<td class="tdNum">6,978.40</td>
+				<td class="tdNum">2,514,609.34</td>
+			</tr>
+			
+			<tr>
+				<td>89</td>
+				<td>Frijol</td>
+				<td class="tdNum">1,506,033.82</td>
+				<td class="tdNum">894,972.06</td>
+				<td class="tdNum">6,889,765.84</td>
+			</tr>
+			
+			<tr>
+				<td>90</td>
+				<td>Frijol x pelón</td>
+				<td class="tdNum">384.46</td>
+				<td class="tdNum">384.46</td>
+				<td class="tdNum">4,783.52</td>
+			</tr>
+			
+			<tr>
+				<td>91</td>
+				<td>Frutales varios</td>
+				<td class="tdNum">616.16</td>
+				<td class="tdNum">557.14</td>
+				<td class="tdNum">14,322.02</td>
+			</tr>
+			
+			<tr>
+				<td>92</td>
+				<td>Gai lan (kay laan)</td>
+				<td class="tdNum">6.00</td>
+				<td class="tdNum">6.00</td>
+				<td class="tdNum">1,188.00</td>
+			</tr>
+			
+			<tr>
+				<td>93</td>
+				<td>Garbanzo forrajero</td>
+				<td class="tdNum">16,399.00</td>
+				<td class="tdNum">15,395.00</td>
+				<td class="tdNum">78,998.25</td>
+			</tr>
+			
+			<tr>
+				<td>94</td>
+				<td>Garbanzo grano</td>
+				<td class="tdNum">88,043.41</td>
+				<td class="tdNum">48,066.73</td>
+				<td class="tdNum">647,040.32</td>
+			</tr>
+			
+			<tr>
+				<td>95</td>
+				<td>Garbanzo porquero</td>
+				<td class="tdNum">3,413.00</td>
+				<td class="tdNum">3,273.00</td>
+				<td class="tdNum">18,202.63</td>
+			</tr>
+			
+			<tr>
+				<td>96</td>
+				<td>Girasol</td>
+				<td class="tdNum">2,650.33</td>
+				<td class="tdNum">1,849.83</td>
+				<td class="tdNum">15,239.35</td>
+			</tr>
+			
+			<tr>
+				<td>97</td>
+				<td>Girasol forrajero</td>
+				<td class="tdNum">29.00</td>
+				<td class="tdNum">8.00</td>
+				<td class="tdNum">21.00</td>
+			</tr>
+			
+			<tr>
+				<td>98</td>
+				<td>Granada</td>
+				<td class="tdNum">724.60</td>
+				<td class="tdNum">600.60</td>
+				<td class="tdNum">30,733.36</td>
+			</tr>
+			
+			<tr>
+				<td>99</td>
+				<td>Guaje</td>
+				<td class="tdNum">717.28</td>
+				<td class="tdNum">490.28</td>
+				<td class="tdNum">20,032.50</td>
+			</tr>
+			
+			<tr>
+				<td>100</td>
+				<td>Guaje (verdura)</td>
+				<td class="tdNum">29.50</td>
+				<td class="tdNum">24.50</td>
+				<td class="tdNum">3,042.00</td>
+			</tr>
+			
+			<tr>
+				<td>101</td>
+				<td>Guamúchil</td>
+				<td class="tdNum">9.50</td>
+				<td class="tdNum">9.50</td>
+				<td class="tdNum">526.30</td>
+			</tr>
+			
+			<tr>
+				<td>102</td>
+				<td>Guanábana</td>
+				<td class="tdNum">2,400.55</td>
+				<td class="tdNum">2,333.55</td>
+				<td class="tdNum">88,117.18</td>
+			</tr>
+			
+			<tr>
+				<td>103</td>
+				<td>Guayaba</td>
+				<td class="tdNum">21,762.79</td>
+				<td class="tdNum">21,255.94</td>
+				<td class="tdNum">1,190,747.57</td>
+			</tr>
+			
+			<tr>
+				<td>104</td>
+				<td>Haba grano</td>
+				<td class="tdNum">19,863.00</td>
+				<td class="tdNum">14,850.27</td>
+				<td class="tdNum">116,026.33</td>
+			</tr>
+			
+			<tr>
+				<td>105</td>
+				<td>Haba verde</td>
+				<td class="tdNum">11,508.10</td>
+				<td class="tdNum">10,383.10</td>
+				<td class="tdNum">270,223.09</td>
+			</tr>
+			
+			<tr>
+				<td>106</td>
+				<td>Helecho</td>
+				<td class="tdNum">52.00</td>
+				<td class="tdNum">52.00</td>
+				<td class="tdNum">59,280.00</td>
+			</tr>
+			
+			<tr>
+				<td>107</td>
+				<td>Henequén</td>
+				<td class="tdNum">17,033.04</td>
+				<td class="tdNum">8,956.54</td>
+				<td class="tdNum">42,021.16</td>
+			</tr>
+			
+			<tr>
+				<td>108</td>
+				<td>Hierbabuena</td>
+				<td class="tdNum">29.50</td>
+				<td class="tdNum">29.50</td>
+				<td class="tdNum">635.42</td>
+			</tr>
+			
+			<tr>
+				<td>109</td>
+				<td>Higo</td>
+				<td class="tdNum">1,302.55</td>
+				<td class="tdNum">813.55</td>
+				<td class="tdNum">40,322.57</td>
+			</tr>
+			
+			<tr>
+				<td>110</td>
+				<td>Higuerilla</td>
+				<td class="tdNum">5.00</td>
+				<td class="tdNum">5.00</td>
+				<td class="tdNum">8.40</td>
+			</tr>
+			
+			<tr>
+				<td>111</td>
+				<td>Hoja de plátano (belillo)</td>
+				<td class="tdNum">2,070.00</td>
+				<td class="tdNum">2,070.00</td>
+				<td class="tdNum">13,969.58</td>
+			</tr>
+			
+			<tr>
+				<td>112</td>
+				<td>Hongos, setas y champiñones</td>
+				<td class="tdNum">15.12</td>
+				<td class="tdNum">15.12</td>
+				<td class="tdNum">35,526.02</td>
+			</tr>
+			
+			<tr>
+				<td>113</td>
+				<td>Hortalizas</td>
+				<td class="tdNum">4,547.69</td>
+				<td class="tdNum">1,121.82</td>
+				<td class="tdNum">42,508.70</td>
+			</tr>
+			
+			<tr>
+				<td>114</td>
+				<td>Huauzontle</td>
+				<td class="tdNum">289.70</td>
+				<td class="tdNum">284.00</td>
+				<td class="tdNum">7,530.28</td>
+			</tr>
+			
+			<tr>
+				<td>115</td>
+				<td>Hule hevea</td>
+				<td class="tdNum">24,401.96</td>
+				<td class="tdNum">17,315.20</td>
+				<td class="tdNum">478,873.23</td>
+			</tr>
+			
+			<tr>
+				<td>116</td>
+				<td>Jaca (jackfruit)</td>
+				<td class="tdNum">797.00</td>
+				<td class="tdNum">560.50</td>
+				<td class="tdNum">56,799.78</td>
+			</tr>
+			
+			<tr>
+				<td>117</td>
+				<td>Jamaica</td>
+				<td class="tdNum">18,620.70</td>
+				<td class="tdNum">18,510.70</td>
+				<td class="tdNum">135,729.31</td>
+			</tr>
+			
+			<tr>
+				<td>118</td>
+				<td>Jatropha</td>
+				<td class="tdNum">2,536.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>119</td>
+				<td>Jengibre</td>
+				<td class="tdNum">97.00</td>
+				<td class="tdNum">97.00</td>
+				<td class="tdNum">7,196.81</td>
+			</tr>
+			
+			<tr>
+				<td>120</td>
+				<td>Jícama</td>
+				<td class="tdNum">6,583.70</td>
+				<td class="tdNum">6,546.70</td>
+				<td class="tdNum">440,863.06</td>
+			</tr>
+			
+			<tr>
+				<td>121</td>
+				<td>Jojoba</td>
+				<td class="tdNum">60.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>122</td>
+				<td>Kale</td>
+				<td class="tdNum">44.00</td>
+				<td class="tdNum">44.00</td>
+				<td class="tdNum">8,602.00</td>
+			</tr>
+			
+			<tr>
+				<td>123</td>
+				<td>Kohlrabi</td>
+				<td class="tdNum">12.00</td>
+				<td class="tdNum">12.00</td>
+				<td class="tdNum">2,721.60</td>
+			</tr>
+			
+			<tr>
+				<td>124</td>
+				<td>Lechuga</td>
+				<td class="tdNum">18,775.52</td>
+				<td class="tdNum">18,394.77</td>
+				<td class="tdNum">1,049,531.29</td>
+			</tr>
+			
+			<tr>
+				<td>125</td>
+				<td>Lenteja</td>
+				<td class="tdNum">6,859.50</td>
+				<td class="tdNum">6,820.50</td>
+				<td class="tdNum">82,061.03</td>
+			</tr>
+			
+			<tr>
+				<td>126</td>
+				<td>Leucaena</td>
+				<td class="tdNum">9.00</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">1.28</td>
+			</tr>
+			
+			<tr>
+				<td>127</td>
+				<td>Lima</td>
+				<td class="tdNum">1,512.24</td>
+				<td class="tdNum">1,411.62</td>
+				<td class="tdNum">37,136.31</td>
+			</tr>
+			
+			<tr>
+				<td>128</td>
+				<td>Limón</td>
+				<td class="tdNum">166,580.41</td>
+				<td class="tdNum">149,607.56</td>
+				<td class="tdNum">6,305,658.73</td>
+			</tr>
+			
+			<tr>
+				<td>129</td>
+				<td>Limón real</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">2.00</td>
+				<td class="tdNum">38.18</td>
+			</tr>
+			
+			<tr>
+				<td>130</td>
+				<td>Litchi</td>
+				<td class="tdNum">3,567.90</td>
+				<td class="tdNum">3,301.54</td>
+				<td class="tdNum">249,693.67</td>
+			</tr>
+			
+			<tr>
+				<td>131</td>
+				<td>Macadamia</td>
+				<td class="tdNum">1,362.25</td>
+				<td class="tdNum">1,229.00</td>
+				<td class="tdNum">22,575.59</td>
+			</tr>
+			
+			<tr>
+				<td>132</td>
+				<td>Maíz forrajero en verde</td>
+				<td class="tdNum">489,152.52</td>
+				<td class="tdNum">311,225.44</td>
+				<td class="tdNum">4,402,710.47</td>
+			</tr>
+			
+			<tr>
+				<td>133</td>
+				<td>Maíz grano</td>
+				<td class="tdNum">7,750,301.19</td>
+				<td class="tdNum">6,069,091.63</td>
+				<td class="tdNum">71,913,855.24</td>
+			</tr>
+			
+			<tr>
+				<td>134</td>
+				<td>Maíz palomero</td>
+				<td class="tdNum">139.00</td>
+				<td class="tdNum">139.00</td>
+				<td class="tdNum">3,308.20</td>
+			</tr>
+			
+			<tr>
+				<td>135</td>
+				<td>Malanga</td>
+				<td class="tdNum">370.00</td>
+				<td class="tdNum">340.00</td>
+				<td class="tdNum">41,890.00</td>
+			</tr>
+			
+			<tr>
+				<td>136</td>
+				<td>Mamey</td>
+				<td class="tdNum">1,702.39</td>
+				<td class="tdNum">1,336.89</td>
+				<td class="tdNum">72,181.93</td>
+			</tr>
+			
+			<tr>
+				<td>137</td>
+				<td>Mandarina</td>
+				<td class="tdNum">20,103.45</td>
+				<td class="tdNum">18,837.18</td>
+				<td class="tdNum">280,958.41</td>
+			</tr>
+			
+			<tr>
+				<td>138</td>
+				<td>Mango</td>
+				<td class="tdNum">184,768.14</td>
+				<td class="tdNum">175,673.90</td>
+				<td class="tdNum">4,059,595.11</td>
+			</tr>
+			
+			<tr>
+				<td>139</td>
+				<td>Mano de león</td>
+				<td class="tdNum">37.00</td>
+				<td class="tdNum">25.00</td>
+				<td class="tdNum">1,235.25</td>
+			</tr>
+			
+			<tr>
+				<td>140</td>
+				<td>Manzana</td>
+				<td class="tdNum">61,292.25</td>
+				<td class="tdNum">56,845.44</td>
+				<td class="tdNum">3,122,698.66</td>
+			</tr>
+			
+			<tr>
+				<td>141</td>
+				<td>Manzanilla</td>
+				<td class="tdNum">869.00</td>
+				<td class="tdNum">869.00</td>
+				<td class="tdNum">10,465.78</td>
+			</tr>
+			
+			<tr>
+				<td>142</td>
+				<td>Maracuyá</td>
+				<td class="tdNum">106.50</td>
+				<td class="tdNum">102.50</td>
+				<td class="tdNum">3,038.65</td>
+			</tr>
+			
+			<tr>
+				<td>143</td>
+				<td>Marañón</td>
+				<td class="tdNum">1,231.75</td>
+				<td class="tdNum">1,206.95</td>
+				<td class="tdNum">17,174.50</td>
+			</tr>
+			
+			<tr>
+				<td>144</td>
+				<td>Mejorana</td>
+				<td class="tdNum">38.00</td>
+				<td class="tdNum">38.00</td>
+				<td class="tdNum">560.41</td>
+			</tr>
+			
+			<tr>
+				<td>145</td>
+				<td>Melón</td>
+				<td class="tdNum">21,146.05</td>
+				<td class="tdNum">20,617.65</td>
+				<td class="tdNum">1,757,854.76</td>
+			</tr>
+			
+			<tr>
+				<td>146</td>
+				<td>Melón amargo</td>
+				<td class="tdNum">551.00</td>
+				<td class="tdNum">551.00</td>
+				<td class="tdNum">71,530.00</td>
+			</tr>
+			
+			<tr>
+				<td>147</td>
+				<td>Membrillo</td>
+				<td class="tdNum">763.50</td>
+				<td class="tdNum">736.50</td>
+				<td class="tdNum">36,316.08</td>
+			</tr>
+			
+			<tr>
+				<td>148</td>
+				<td>Menta</td>
+				<td class="tdNum">10.30</td>
+				<td class="tdNum">10.30</td>
+				<td class="tdNum">772.37</td>
+			</tr>
+			
+			<tr>
+				<td>149</td>
+				<td>Mostaza</td>
+				<td class="tdNum">55.00</td>
+				<td class="tdNum">55.00</td>
+				<td class="tdNum">1,582.00</td>
+			</tr>
+			
+			<tr>
+				<td>150</td>
+				<td>Nabo</td>
+				<td class="tdNum">123.50</td>
+				<td class="tdNum">119.50</td>
+				<td class="tdNum">6,208.98</td>
+			</tr>
+			
+			<tr>
+				<td>151</td>
+				<td>Nabo forrajero</td>
+				<td class="tdNum">704.00</td>
+				<td class="tdNum">704.00</td>
+				<td class="tdNum">7,895.99</td>
+			</tr>
+			
+			<tr>
+				<td>152</td>
+				<td>Nanche</td>
+				<td class="tdNum">1,486.20</td>
+				<td class="tdNum">1,350.20</td>
+				<td class="tdNum">30,803.13</td>
+			</tr>
+			
+			<tr>
+				<td>153</td>
+				<td>Napa</td>
+				<td class="tdNum">204.00</td>
+				<td class="tdNum">204.00</td>
+				<td class="tdNum">22,590.00</td>
+			</tr>
+			
+			<tr>
+				<td>154</td>
+				<td>Naranja</td>
+				<td class="tdNum">335,471.72</td>
+				<td class="tdNum">330,174.59</td>
+				<td class="tdNum">5,903,847.70</td>
+			</tr>
+			
+			<tr>
+				<td>155</td>
+				<td>Neem</td>
+				<td class="tdNum">20.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>156</td>
+				<td>Níspero</td>
+				<td class="tdNum">52.00</td>
+				<td class="tdNum">45.00</td>
+				<td class="tdNum">903.26</td>
+			</tr>
+			
+			<tr>
+				<td>157</td>
+				<td>Noni</td>
+				<td class="tdNum">57.50</td>
+				<td class="tdNum">49.50</td>
+				<td class="tdNum">1,100.34</td>
+			</tr>
+			
+			<tr>
+				<td>158</td>
+				<td>Nopal forrajero</td>
+				<td class="tdNum">18,610.25</td>
+				<td class="tdNum">9,926.75</td>
+				<td class="tdNum">50,143.47</td>
+			</tr>
+			
+			<tr>
+				<td>159</td>
+				<td>Nopalitos</td>
+				<td class="tdNum">12,644.61</td>
+				<td class="tdNum">12,179.51</td>
+				<td class="tdNum">1,340,602.90</td>
+			</tr>
+			
+			<tr>
+				<td>160</td>
+				<td>Nube</td>
+				<td class="tdNum">585.00</td>
+				<td class="tdNum">541.50</td>
+				<td class="tdNum">9,078.19</td>
+			</tr>
+			
+			<tr>
+				<td>161</td>
+				<td>Nuez</td>
+				<td class="tdNum">96,277.27</td>
+				<td class="tdNum">68,008.91</td>
+				<td class="tdNum">6,027,379.78</td>
+			</tr>
+			
+			<tr>
+				<td>162</td>
+				<td>Okra (angú o gombo)</td>
+				<td class="tdNum">3,020.14</td>
+				<td class="tdNum">3,020.14</td>
+				<td class="tdNum">235,505.49</td>
+			</tr>
+			
+			<tr>
+				<td>163</td>
+				<td>Orégano</td>
+				<td class="tdNum">69.25</td>
+				<td class="tdNum">64.25</td>
+				<td class="tdNum">1,754.39</td>
+			</tr>
+			
+			<tr>
+				<td>164</td>
+				<td>Pak choi</td>
+				<td class="tdNum">40.00</td>
+				<td class="tdNum">40.00</td>
+				<td class="tdNum">4,800.00</td>
+			</tr>
+			
+			<tr>
+				<td>165</td>
+				<td>Palma africana o de aceite</td>
+				<td class="tdNum">54,434.33</td>
+				<td class="tdNum">32,700.74</td>
+				<td class="tdNum">850,622.75</td>
+			</tr>
+			
+			<tr>
+				<td>166</td>
+				<td>Palma de ornato</td>
+				<td class="tdNum">12.50</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>167</td>
+				<td>Palma taco</td>
+				<td class="tdNum">111.00</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">180.00</td>
+			</tr>
+			
+			<tr>
+				<td>168</td>
+				<td>Palo de arco</td>
+				<td class="tdNum">11.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>169</td>
+				<td>Papa</td>
+				<td class="tdNum">69,054.26</td>
+				<td class="tdNum">54,551.05</td>
+				<td class="tdNum">9,069,647.13</td>
+			</tr>
+			
+			<tr>
+				<td>170</td>
+				<td>Pápalo</td>
+				<td class="tdNum">548.00</td>
+				<td class="tdNum">548.00</td>
+				<td class="tdNum">16,482.46</td>
+			</tr>
+			
+			<tr>
+				<td>171</td>
+				<td>Papaya</td>
+				<td class="tdNum">16,984.43</td>
+				<td class="tdNum">14,222.53</td>
+				<td class="tdNum">2,541,107.34</td>
+			</tr>
+			
+			<tr>
+				<td>172</td>
+				<td>Pastos y praderas</td>
+				<td class="tdNum">2,567,429.64</td>
+				<td class="tdNum">2,479,896.95</td>
+				<td class="tdNum">17,577,946.43</td>
+			</tr>
+			
+			<tr>
+				<td>173</td>
+				<td>Pepino</td>
+				<td class="tdNum">16,353.95</td>
+				<td class="tdNum">14,639.97</td>
+				<td class="tdNum">2,128,151.38</td>
+			</tr>
+			
+			<tr>
+				<td>174</td>
+				<td>Pera</td>
+				<td class="tdNum">4,478.65</td>
+				<td class="tdNum">3,944.30</td>
+				<td class="tdNum">88,204.95</td>
+			</tr>
+			
+			<tr>
+				<td>175</td>
+				<td>Perejil</td>
+				<td class="tdNum">279.50</td>
+				<td class="tdNum">278.00</td>
+				<td class="tdNum">27,630.80</td>
+			</tr>
+			
+			<tr>
+				<td>176</td>
+				<td>Perón</td>
+				<td class="tdNum">573.30</td>
+				<td class="tdNum">572.30</td>
+				<td class="tdNum">18,992.21</td>
+			</tr>
+			
+			<tr>
+				<td>177</td>
+				<td>Persimonio</td>
+				<td class="tdNum">18.00</td>
+				<td class="tdNum">18.00</td>
+				<td class="tdNum">2,534.00</td>
+			</tr>
+			
+			<tr>
+				<td>178</td>
+				<td>Pimienta</td>
+				<td class="tdNum">4,035.33</td>
+				<td class="tdNum">2,493.50</td>
+				<td class="tdNum">57,556.59</td>
+			</tr>
+			
+			<tr>
+				<td>179</td>
+				<td>Piña</td>
+				<td class="tdNum">36,687.13</td>
+				<td class="tdNum">17,296.13</td>
+				<td class="tdNum">2,124,497.95</td>
+			</tr>
+			
+			<tr>
+				<td>180</td>
+				<td>Piñón</td>
+				<td class="tdNum">686.16</td>
+				<td class="tdNum">583.86</td>
+				<td class="tdNum">34,878.97</td>
+			</tr>
+			
+			<tr>
+				<td>181</td>
+				<td>Pipicha</td>
+				<td class="tdNum">60.00</td>
+				<td class="tdNum">60.00</td>
+				<td class="tdNum">390.30</td>
+			</tr>
+			
+			<tr>
+				<td>182</td>
+				<td>Pistache</td>
+				<td class="tdNum">241.79</td>
+				<td class="tdNum">123.30</td>
+				<td class="tdNum">4,543.20</td>
+			</tr>
+			
+			<tr>
+				<td>183</td>
+				<td>Pitahaya</td>
+				<td class="tdNum">561.38</td>
+				<td class="tdNum">522.62</td>
+				<td class="tdNum">22,846.53</td>
+			</tr>
+			
+			<tr>
+				<td>184</td>
+				<td>Pitaya</td>
+				<td class="tdNum">1,285.10</td>
+				<td class="tdNum">1,254.10</td>
+				<td class="tdNum">39,843.07</td>
+			</tr>
+			
+			<tr>
+				<td>185</td>
+				<td>Plátano</td>
+				<td class="tdNum">77,303.66</td>
+				<td class="tdNum">74,284.16</td>
+				<td class="tdNum">6,163,079.29</td>
+			</tr>
+			
+			<tr>
+				<td>186</td>
+				<td>Polar</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">408.00</td>
+			</tr>
+			
+			<tr>
+				<td>187</td>
+				<td>Poro (leek)</td>
+				<td class="tdNum">369.10</td>
+				<td class="tdNum">364.60</td>
+				<td class="tdNum">52,843.97</td>
+			</tr>
+			
+			<tr>
+				<td>188</td>
+				<td>Quelite</td>
+				<td class="tdNum">108.00</td>
+				<td class="tdNum">108.00</td>
+				<td class="tdNum">10,224.00</td>
+			</tr>
+			
+			<tr>
+				<td>189</td>
+				<td>Rábano</td>
+				<td class="tdNum">2,760.04</td>
+				<td class="tdNum">2,685.54</td>
+				<td class="tdNum">85,284.88</td>
+			</tr>
+			
+			<tr>
+				<td>190</td>
+				<td>Rambután</td>
+				<td class="tdNum">202.50</td>
+				<td class="tdNum">176.00</td>
+				<td class="tdNum">19,447.63</td>
+			</tr>
+			
+			<tr>
+				<td>191</td>
+				<td>Rapini</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">3,927.00</td>
+			</tr>
+			
+			<tr>
+				<td>192</td>
+				<td>Remolacha azucarera</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">600.00</td>
+			</tr>
+			
+			<tr>
+				<td>193</td>
+				<td>Remolacha forrajera</td>
+				<td class="tdNum">5.00</td>
+				<td class="tdNum">5.00</td>
+				<td class="tdNum">189.21</td>
+			</tr>
+			
+			<tr>
+				<td>194</td>
+				<td>Romerito</td>
+				<td class="tdNum">721.00</td>
+				<td class="tdNum">660.50</td>
+				<td class="tdNum">17,013.05</td>
+			</tr>
+			
+			<tr>
+				<td>195</td>
+				<td>Romero</td>
+				<td class="tdNum">52.25</td>
+				<td class="tdNum">52.25</td>
+				<td class="tdNum">1,697.44</td>
+			</tr>
+			
+			<tr>
+				<td>196</td>
+				<td>Sábila</td>
+				<td class="tdNum">6,102.58</td>
+				<td class="tdNum">5,128.94</td>
+				<td class="tdNum">111,655.04</td>
+			</tr>
+			
+			<tr>
+				<td>197</td>
+				<td>Salvia</td>
+				<td class="tdNum">23.00</td>
+				<td class="tdNum">23.00</td>
+				<td class="tdNum">1,095.74</td>
+			</tr>
+			
+			<tr>
+				<td>198</td>
+				<td>Sandía</td>
+				<td class="tdNum">45,686.94</td>
+				<td class="tdNum">41,244.65</td>
+				<td class="tdNum">2,477,309.46</td>
+			</tr>
+			
+			<tr>
+				<td>199</td>
+				<td>Saramuyo</td>
+				<td class="tdNum">63.50</td>
+				<td class="tdNum">63.50</td>
+				<td class="tdNum">1,268.31</td>
+			</tr>
+			
+			<tr>
+				<td>200</td>
+				<td>Semilla de brócoli</td>
+				<td class="tdNum">158.15</td>
+				<td class="tdNum">158.15</td>
+				<td class="tdNum">2,916.79</td>
+			</tr>
+			
+			<tr>
+				<td>201</td>
+				<td>Semilla de calabacita</td>
+				<td class="tdNum">102.95</td>
+				<td class="tdNum">102.95</td>
+				<td class="tdNum">1,371.12</td>
+			</tr>
+			
+			<tr>
+				<td>202</td>
+				<td>Semilla de caña de azúcar</td>
+				<td class="tdNum">4,340.50</td>
+				<td class="tdNum">4,181.50</td>
+				<td class="tdNum">200,880.37</td>
+			</tr>
+			
+			<tr>
+				<td>203</td>
+				<td>Semilla de cebada grano</td>
+				<td class="tdNum">4,170.00</td>
+				<td class="tdNum">4,170.00</td>
+				<td class="tdNum">92,879.50</td>
+			</tr>
+			
+			<tr>
+				<td>204</td>
+				<td>Semilla de cebolla</td>
+				<td class="tdNum">4.00</td>
+				<td class="tdNum">4.00</td>
+				<td class="tdNum">64.00</td>
+			</tr>
+			
+			<tr>
+				<td>205</td>
+				<td>Semilla de chile verde</td>
+				<td class="tdNum">7.40</td>
+				<td class="tdNum">7.40</td>
+				<td class="tdNum">751.05</td>
+			</tr>
+			
+			<tr>
+				<td>206</td>
+				<td>Semilla de cilantro</td>
+				<td class="tdNum">648.00</td>
+				<td class="tdNum">648.00</td>
+				<td class="tdNum">9,329.25</td>
+			</tr>
+			
+			<tr>
+				<td>207</td>
+				<td>Semilla de coliflor</td>
+				<td class="tdNum">15.00</td>
+				<td class="tdNum">15.00</td>
+				<td class="tdNum">804.00</td>
+			</tr>
+			
+			<tr>
+				<td>208</td>
+				<td>Semilla de flores</td>
+				<td class="tdNum">25.00</td>
+				<td class="tdNum">25.00</td>
+				<td class="tdNum">7,650.00</td>
+			</tr>
+			
+			<tr>
+				<td>209</td>
+				<td>Semilla de jícama</td>
+				<td class="tdNum">15.00</td>
+				<td class="tdNum">10.00</td>
+				<td class="tdNum">1,567.50</td>
+			</tr>
+			
+			<tr>
+				<td>210</td>
+				<td>Semilla de lechuga</td>
+				<td class="tdNum">2.40</td>
+				<td class="tdNum">2.40</td>
+				<td class="tdNum">287.23</td>
+			</tr>
+			
+			<tr>
+				<td>211</td>
+				<td>Semilla de maíz grano</td>
+				<td class="tdNum">3,397.00</td>
+				<td class="tdNum">3,397.00</td>
+				<td class="tdNum">73,248.36</td>
+			</tr>
+			
+			<tr>
+				<td>212</td>
+				<td>Semilla de melón</td>
+				<td class="tdNum">29.85</td>
+				<td class="tdNum">29.85</td>
+				<td class="tdNum">2,114.73</td>
+			</tr>
+			
+			<tr>
+				<td>213</td>
+				<td>Semilla de papa</td>
+				<td class="tdNum">261.40</td>
+				<td class="tdNum">261.40</td>
+				<td class="tdNum">65,888.84</td>
+			</tr>
+			
+			<tr>
+				<td>214</td>
+				<td>Semilla de zacate</td>
+				<td class="tdNum">254.00</td>
+				<td class="tdNum">249.00</td>
+				<td class="tdNum">5,586.31</td>
+			</tr>
+			
+			<tr>
+				<td>215</td>
+				<td>Semilla de pepino</td>
+				<td class="tdNum">31.55</td>
+				<td class="tdNum">21.55</td>
+				<td class="tdNum">4,250.32</td>
+			</tr>
+			
+			<tr>
+				<td>216</td>
+				<td>Semilla de sandía</td>
+				<td class="tdNum">31.55</td>
+				<td class="tdNum">31.55</td>
+				<td class="tdNum">2,871.16</td>
+			</tr>
+			
+			<tr>
+				<td>217</td>
+				<td>Semilla de tomate rojo (jitomate)</td>
+				<td class="tdNum">14.00</td>
+				<td class="tdNum">14.00</td>
+				<td class="tdNum">3,798.70</td>
+			</tr>
+			
+			<tr>
+				<td>218</td>
+				<td>Shangai-bock-choy</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">30.00</td>
+				<td class="tdNum">1,008.00</td>
+			</tr>
+			
+			<tr>
+				<td>219</td>
+				<td>Shop suey</td>
+				<td class="tdNum">1,626.50</td>
+				<td class="tdNum">1,485.50</td>
+				<td class="tdNum">5,653.08</td>
+			</tr>
+			
+			<tr>
+				<td>220</td>
+				<td>Sorgo escobero</td>
+				<td class="tdNum">5,565.75</td>
+				<td class="tdNum">4,954.75</td>
+				<td class="tdNum">47,492.66</td>
+			</tr>
+			
+			<tr>
+				<td>221</td>
+				<td>Sorgo forrajero en verde</td>
+				<td class="tdNum">235,786.79</td>
+				<td class="tdNum">183,398.06</td>
+				<td class="tdNum">1,961,937.20</td>
+			</tr>
+			
+			<tr>
+				<td>222</td>
+				<td>Sorgo grano</td>
+				<td class="tdNum">1,972,058.88</td>
+				<td class="tdNum">1,728,228.45</td>
+				<td class="tdNum">22,185,072.12</td>
+			</tr>
+			
+			<tr>
+				<td>223</td>
+				<td>Soya</td>
+				<td class="tdNum">166,719.02</td>
+				<td class="tdNum">155,512.52</td>
+				<td class="tdNum">1,289,273.84</td>
+			</tr>
+			
+			<tr>
+				<td>224</td>
+				<td>Statice</td>
+				<td class="tdNum">166.00</td>
+				<td class="tdNum">156.00</td>
+				<td class="tdNum">1,750.20</td>
+			</tr>
+			
+			<tr>
+				<td>225</td>
+				<td>Stevia</td>
+				<td class="tdNum">36.00</td>
+				<td class="tdNum">0.00</td>
+				<td class="tdNum">0.00</td>
+			</tr>
+			
+			<tr>
+				<td>226</td>
+				<td>Tabaco</td>
+				<td class="tdNum">4,524.50</td>
+				<td class="tdNum">4,524.50</td>
+				<td class="tdNum">300,106.10</td>
+			</tr>
+			
+			<tr>
+				<td>227</td>
+				<td>Tamarindo</td>
+				<td class="tdNum">8,679.26</td>
+				<td class="tdNum">7,548.13</td>
+				<td class="tdNum">214,957.34</td>
+			</tr>
+			
+			<tr>
+				<td>228</td>
+				<td>Tangelo</td>
+				<td class="tdNum">4,680.50</td>
+				<td class="tdNum">4,426.50</td>
+				<td class="tdNum">201,481.28</td>
+			</tr>
+			
+			<tr>
+				<td>229</td>
+				<td>Tangerina</td>
+				<td class="tdNum">13,219.75</td>
+				<td class="tdNum">12,391.75</td>
+				<td class="tdNum">326,456.70</td>
+			</tr>
+			
+			<tr>
+				<td>230</td>
+				<td>Tarragón</td>
+				<td class="tdNum">8.50</td>
+				<td class="tdNum">8.50</td>
+				<td class="tdNum">322.59</td>
+			</tr>
+			
+			<tr>
+				<td>231</td>
+				<td>Té limón</td>
+				<td class="tdNum">44.00</td>
+				<td class="tdNum">43.50</td>
+				<td class="tdNum">696.65</td>
+			</tr>
+			
+			<tr>
+				<td>232</td>
+				<td>Tejocote</td>
+				<td class="tdNum">678.15</td>
+				<td class="tdNum">670.30</td>
+				<td class="tdNum">5,542.48</td>
+			</tr>
+			
+			<tr>
+				<td>233</td>
+				<td>Tomate rojo (jitomate)</td>
+				<td class="tdNum">53,780.18</td>
+				<td class="tdNum">44,932.15</td>
+				<td class="tdNum">10,336,853.07</td>
+			</tr>
+			
+			<tr>
+				<td>234</td>
+				<td>Tomate verde</td>
+				<td class="tdNum">47,830.85</td>
+				<td class="tdNum">40,437.23</td>
+				<td class="tdNum">2,270,952.62</td>
+			</tr>
+			
+			<tr>
+				<td>235</td>
+				<td>Tomillo</td>
+				<td class="tdNum">20.00</td>
+				<td class="tdNum">20.00</td>
+				<td class="tdNum">718.95</td>
+			</tr>
+			
+			<tr>
+				<td>236</td>
+				<td>Toronja (pomelo)</td>
+				<td class="tdNum">18,575.56</td>
+				<td class="tdNum">17,381.94</td>
+				<td class="tdNum">636,708.77</td>
+			</tr>
+			
+			<tr>
+				<td>237</td>
+				<td>Trébol</td>
+				<td class="tdNum">52.00</td>
+				<td class="tdNum">52.00</td>
+				<td class="tdNum">947.31</td>
+			</tr>
+			
+			<tr>
+				<td>238</td>
+				<td>Trigo forrajero verde</td>
+				<td class="tdNum">2,377.55</td>
+				<td class="tdNum">2,368.55</td>
+				<td class="tdNum">29,186.20</td>
+			</tr>
+			
+			<tr>
+				<td>239</td>
+				<td>Trigo grano</td>
+				<td class="tdNum">714,864.19</td>
+				<td class="tdNum">662,221.35</td>
+				<td class="tdNum">13,043,285.28</td>
+			</tr>
+			
+			<tr>
+				<td>240</td>
+				<td>Triticale forrajero en verde</td>
+				<td class="tdNum">5,299.75</td>
+				<td class="tdNum">5,258.75</td>
+				<td class="tdNum">61,182.20</td>
+			</tr>
+			
+			<tr>
+				<td>241</td>
+				<td>Triticale grano</td>
+				<td class="tdNum">245.00</td>
+				<td class="tdNum">245.00</td>
+				<td class="tdNum">1,604.60</td>
+			</tr>
+			
+			<tr>
+				<td>242</td>
+				<td>Tuna</td>
+				<td class="tdNum">57,692.55</td>
+				<td class="tdNum">48,744.40</td>
+				<td class="tdNum">1,006,360.22</td>
+			</tr>
+			
+			<tr>
+				<td>243</td>
+				<td>Uva</td>
+				<td class="tdNum">27,830.86</td>
+				<td class="tdNum">27,209.75</td>
+				<td class="tdNum">4,736,829.58</td>
+			</tr>
+			
+			<tr>
+				<td>244</td>
+				<td>Vainilla</td>
+				<td class="tdNum">1,225.50</td>
+				<td class="tdNum">1,094.50</td>
+				<td class="tdNum">19,429.37</td>
+			</tr>
+			
+			<tr>
+				<td>245</td>
+				<td>Varios</td>
+				<td class="tdNum">3,054.25</td>
+				<td class="tdNum">2,856.25</td>
+				<td class="tdNum">38,380.78</td>
+			</tr>
+			
+			<tr>
+				<td>246</td>
+				<td>Verdolaga</td>
+				<td class="tdNum">409.50</td>
+				<td class="tdNum">406.00</td>
+				<td class="tdNum">19,024.02</td>
+			</tr>
+			
+			<tr>
+				<td>247</td>
+				<td>Yuca alimenticia</td>
+				<td class="tdNum">1,484.00</td>
+				<td class="tdNum">1,484.00</td>
+				<td class="tdNum">50,330.90</td>
+			</tr>
+			
+			<tr>
+				<td>248</td>
+				<td>Yu-choy</td>
+				<td class="tdNum">50.00</td>
+				<td class="tdNum">50.00</td>
+				<td class="tdNum">1,750.00</td>
+			</tr>
+			
+			<tr>
+				<td>249</td>
+				<td>Zanahoria</td>
+				<td class="tdNum">15,169.10</td>
+				<td class="tdNum">15,011.10</td>
+				<td class="tdNum">884,541.38</td>
+			</tr>
+			
+			<tr>
+				<td>250</td>
+				<td>Zapote</td>
+				<td class="tdNum">2,479.45</td>
+				<td class="tdNum">2,114.95</td>
+				<td class="tdNum">57,923.14</td>
+			</tr>
+			
+			<tr>
+				<td>251</td>
+				<td>Zapupe</td>
+				<td class="tdNum">715.00</td>
+				<td class="tdNum">715.00</td>
+				<td class="tdNum">31,031.00</td>
+			</tr>
+			
+			<tr>
+				<td>252</td>
+				<td>Zarzamora</td>
+				<td class="tdNum">11,296.75</td>
+				<td class="tdNum">10,723.75</td>
+				<td class="tdNum">3,602,016.53</td>
+			</tr>
+			
+			<tr>
+				<td>253</td>
+				<td>Zempoalxochitl</td>
+				<td class="tdNum">1,022.70</td>
+				<td class="tdNum">933.70</td>
+				<td class="tdNum">20,391.43</td>
+			</tr>
+			
+			<tr><th colspan="2">Total</th>
+			<th class="tdNum">22,112,398.79</th>
+			<th class="tdNum">18,075,305.10</th>
+			<th class="tdNum">347,996,844.44</th>
+		</tr>
+		
+		</table></div>
+</body>
+</html>
